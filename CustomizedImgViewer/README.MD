@@ -1,4 +1,4 @@
-# 搜索框
+# 图片查看组件
 
 ## 组件有两种模式, 一种单张图片模式, 即普通大图模式, 另一种为轮播图模式, 适用于多张图
 
@@ -8,7 +8,7 @@
   import { CustomizedImgViewer } from './index.vue'
 ```
 
-> 单张模式
+> 单张模式 [Demo](https://jsbin.com/bureyix/1/edit?html,output)
 
 ``` html
   let imgSrc = 'http://gss0.baidu.com/94o3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/3b87e950352ac65cf0422d54f9f2b21193138a56.jpg'
@@ -28,7 +28,7 @@
 
 ```
 
-> 轮播模式
+> 轮播模式 [Demo](https://jsbin.com/bureyix/5/edit?html,output)
 
 ``` html
   let imgArr = [
@@ -50,7 +50,7 @@
   this.$refs.mutipleImgViewer.open()
 ```
 
-> 可选参数
+> 参数
 
 | 参数 | 说明 | 类型 | 默认值 |
 | :--: | :--: | :--: | :--: |

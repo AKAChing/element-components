@@ -26,7 +26,7 @@
       <el-carousel-item
         v-for="(src,index) in imgSrc"
         :key="index">
-        <img v-lazy="src" :key="src" class="carouselImg" :alt="src" :title="src">
+        <img :src="src" class="carouselImg" :alt="src" :title="src">
       </el-carousel-item>
     </el-carousel>
     <el-button size="mini" type="primary" class="download" v-if="download" @click="downloadImg">下 载</el-button>

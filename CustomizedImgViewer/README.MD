@@ -56,8 +56,8 @@
 | :--: | :--: | :--: | :--: |
 | title | 模态框的标题 | string | '查看大图' |
 | width | 模态框宽度 | string | 80% |
-| altText | 单图模式图片alt | string | '图片' |
-| titleText | 单图模式图片title | string | '点击关闭' |
+| altText | 单图模式图片alt | string | '图片详情' |
+| titleText | 单图模式图片title | string | '图片详情' |
 | imgSrc | 图片地址 | string / array | - |
 | download | 是否提供下载按钮 | boolean | false |
 | imgIndex | 轮播模式下图片索引 | number | 0 |

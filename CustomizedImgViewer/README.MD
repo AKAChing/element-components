@@ -8,7 +8,7 @@
   import { CustomizedImgViewer } from './index.vue'
 ```
 
-> 单张模式 [Demo](https://jsbin.com/bureyix/1/edit?html,output)
+> 单张模式 [Demo](https://codepen.io/zhengqingfeng/pen/KLyJNg)
 
 ``` html
   let imgSrc = 'http://gss0.baidu.com/94o3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/3b87e950352ac65cf0422d54f9f2b21193138a56.jpg'
@@ -28,7 +28,7 @@
 
 ```
 
-> 轮播模式 [Demo](https://jsbin.com/bureyix/5/edit?html,output)
+> 轮播模式 [Demo](https://codepen.io/zhengqingfeng/pen/pmdGxr)
 
 ``` html
   let imgArr = [

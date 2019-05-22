@@ -176,9 +176,6 @@ export default{
 </script>
 <style lang="scss" scoped>
   .customizedFilterGroupContainer{
-    padding: 10px;
-    border: 1px solid #ebeef5;
-    margin-bottom: 10px;
     .unit{
       padding: 4px;
       height: 62px;

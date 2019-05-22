@@ -6,6 +6,8 @@
   import { CustomizedFilterGroup } from './index.vue'
 ```
 
+> [Demo](https://codepen.io/zhengqingfeng/pen/GaOemN)
+
 ``` html
   <customized-filter-group
     :query-obj="queryObj"

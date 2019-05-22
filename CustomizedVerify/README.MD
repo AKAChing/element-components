@@ -6,7 +6,7 @@
   import { CustomizedVerify } from './index.vue'
 ```
 
-> [在线Demo](https://jsbin.com/vipibot/edit?html,console,output)
+> [在线Demo](https://codepen.io/zhengqingfeng/pen/GaOPPw)
 
 ``` html
   <customized-verify
